@@ -1,0 +1,164 @@
+@media screen and (max-width:376px) {
+    *{
+        box-sizing: content-box;
+    }
+    .head{
+        background-image: url('images/bg-header-mobile.png');
+        background-repeat: no-repeat;
+        background-size: 100%;
+        width:158%;
+        text-align: center;
+    }
+    .logo{
+        width: 220px;
+    }
+    h1{
+        font-size: 57px;
+    }
+    .p-head{
+        font-size: 27px;
+        padding: 23px;
+        padding-left: 18px;
+        width: 522px;
+        line-height: 39px;
+    }
+    .head-btn {
+        padding: 21px;
+        display: inline-block;
+        width: 252px;
+        line-height: 78px;
+    }
+    .btn2{
+        margin: 0px;
+    }
+    .m1-head{
+        width: 158%;
+    }
+    h2{
+        font-size: 52px;
+    }
+    .m1-p{
+        font-size: 27px;
+        padding: 23px;
+        padding-left: 18px;
+        width: 522px;
+        line-height: 39px;
+    }
+    .content1{
+        display: flex;
+        flex-direction: column;
+    }
+    .computer-img {
+        padding: 5px;
+        padding-left: 46px;
+        width: 617px;
+    }
+    h3{
+        font-size: 35px;
+    }
+     .cont1-p   {
+        padding: 5px;
+        line-height: 40px;
+        color: hsl(201, 11%, 66%);
+        font-size: 27px;
+    }
+    .side-text {
+        padding: 78px;
+        text-align: center;
+        width: 563px;
+        line-height: 30px;
+    }
+    .main2 {
+        text-align: center;
+        padding: 79px;
+        width: 158%;
+    }
+    .p-main2 {
+        padding: 24px;
+        padding-bottom: 95px;
+        font-size: 27px;
+        line-height: 40px;
+    }
+    .devices{
+        width: 617px;
+    }
+    .main3 {
+            text-align: center;
+            padding: 40px;
+            padding-left: 60px;
+            width: 158%;
+    }
+    .m3-p {
+        padding: 24px;
+        padding-bottom: 95px;
+        font-size: 27px;
+        line-height: 40px;
+    }
+    .box {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        padding: 67px;
+    }
+    .icon-p {
+        padding: 24px;
+        padding-bottom: 95px;
+        font-size: 27px;
+        width: 416px;
+        line-height: 40px;
+    }
+    .i1,.i2,.i3{
+        width: 90px;
+        padding-bottom: 80px;
+    }
+    .brand-icon{
+        padding: 0px;
+        display: flex;
+        flex-direction: column;
+    }
+    .icon{
+        width: 250px;
+        padding: 42px;
+        margin: 0 auto;
+    }
+    .main4{
+        width: 158%;
+        padding-left: 55px;
+    }
+    .m4-p {
+        padding: 38px;
+        padding-bottom: 95px;
+        font-size: 27px;
+        width: 518px;
+        line-height: 40px;
+    }
+    .footer{
+        width: 171%;
+    }
+    .end{
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+    }
+    span{
+        flex-direction: column;
+    }
+    .foot {
+        padding-bottom: 45px;
+        font-size: 27px;
+        width: 427px;
+        line-height: 35px;
+    }
+    .footer-logo {
+        width: 80px;
+        /* float: left; */
+        padding-left: 289px;
+        /* padding-right: 0px; */
+        padding-bottom: 50px;
+    }
+    .social-icons {
+        padding: 35px;
+        padding-left: 0px;
+        word-spacing: 15px;
+    }
+}
